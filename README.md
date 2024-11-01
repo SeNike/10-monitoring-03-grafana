@@ -78,7 +78,7 @@ node_filesystem_free_bytes{fstype!~"tmpfs|rootfs"} / 1024 / 1024 / 1024
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
 
-[Model JSON]()
+[Model JSON](https://github.com/SeNike/10-monitoring-03-grafana/blob/main/model.json)
 
 ---
 
